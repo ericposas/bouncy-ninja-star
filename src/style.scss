@@ -1,0 +1,26 @@
+html, body {
+	margin: 0;
+	background-color: lightgrey;
+}
+
+#stage {
+	background-color: white;
+	border: 1px solid #000;
+}
+
+// #stage-overlay {
+// 	top: 0;
+// 	display: block;
+// 	position: absolute;
+// 	overflow-x: hidden;
+//	background-color: red;
+// }
+
+#infoBox {
+	margin: 10px;
+	font-family: 'arial';
+}
+
+.variable {
+	font-size: 14px;
+}
